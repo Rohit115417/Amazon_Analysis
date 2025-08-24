@@ -47,5 +47,3 @@ The dashboard tracks:
    - Designed an **interactive and user-friendly dashboard**.  
    - Added slicers, filters, and drill-throughs for deeper insights.  
 
-
-## 📂 Project Structure  
