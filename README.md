@@ -23,7 +23,7 @@ The dashboard tracks:
 
 
 ## 📊 Dashboard Preview  
-<img width="1328" height="745" alt="Screenshot 2025-08-24 104507" src="https://github.com/user-attachments/assets/27574357-3f95-4116-ab4d-9e2a8c3a5607" />
+<img width="1321" height="730" alt="Screenshot 2025-08-24 110201" src="https://github.com/user-attachments/assets/a923e2d4-813f-49f8-8c00-460cd293fec7" />
 
 
 ## 📌 Outcomes / Insights  
