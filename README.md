@@ -1,11 +1,11 @@
-#Amazon Sales Dashboard (Power BI)
+# Amazon Sales Dashboard (Power BI)
 
-##Project Overview
+## Project Overview
 
 This project is an interactive Power BI dashboard created to analyze Amazon sales performance.
 It provides insights into sales trends, top-performing categories, customer behavior, and regional performance to help in decision-making.
 
-###Tools & Technologies
+### Tools & Technologies
 
 Power BI – Data cleaning, transformation (Power Query), and visualization
 
@@ -13,11 +13,11 @@ DAX – For creating KPIs and custom measures
 
 Dataset – Amazon sales data (Excel/CSV)
 
-###Key Features
+### Key Features
 
 Data transformation with Power Query
 
-###Created DAX measures for:
+### Created DAX measures for:
 
 Total Sales
 
@@ -29,7 +29,7 @@ Year-over-Year (YoY) Growth
 
 Interactive dashboard with filters, slicers, and drill-through
 
-###Insights on:
+### Insights on:
 
 Best-selling categories and products
 
@@ -39,10 +39,10 @@ Seasonal demand trends
 
 Customer purchasing patterns
 
-###Dashboard Preview  
+### Dashboard Preview  
 "C:\Users\Rohit Janghu\Pictures\Screenshots\Screenshot 2025-08-24 104507.png"
 
-###Dashboard Insights
+### Dashboard Insights
 
 Top Categories & Products – Identified the highest revenue-generating items
 
